@@ -1,1 +1,7 @@
-
+id,name,city,sales,date
+1,Johan,Durban,1000,2024-01-01
+2,johan ,durban,1000,2024/01/01
+3,Mary,Cape Town,,2024-01-02
+4,John,Joburg,1500,01-03-2024
+5,Mary,Cape Town,2000,2024-01-02
+5,Mary,Cape Town,2000,2024-01-02
